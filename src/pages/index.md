@@ -17,4 +17,4 @@ CME also curates maintains a room, #community-moderation-effort-bl:neko.dev,
 which is used to block blatant spam bots and accounts used as part of
 an attack to disrupt conversation in a Matrix room.
 We have a dedicated page to describe what kinds of messages or abuse
-end up on this policy list that you can read.s
+end up on this policy list that you can read.
