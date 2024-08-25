@@ -1,0 +1,8 @@
+{
+  "label": "Threat Actors - Eligible for cme-main",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Threat Actor documentation all threat actors in this section are eligible for inclusion on the main list."
+  }
+}
