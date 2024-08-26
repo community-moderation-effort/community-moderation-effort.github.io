@@ -11,12 +11,12 @@ const config: Config = {
   url: 'https://community-moderation-effort.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/website/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'community-moderation-effort', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  projectName: 'community-moderation-effort.github.io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
