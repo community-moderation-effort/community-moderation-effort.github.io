@@ -2,6 +2,15 @@
 sidebar_position: 1
 ---
 
+:::warning
+
+This website is currently unofficial, and any guidance should be met
+with caution and scepticism.
+
+Feedback is welcome in the CME offtopic channel.
+
+:::
+
 # Commercial Spammers.
 
 This is the most common threat actor type on matrix. This threat actor category

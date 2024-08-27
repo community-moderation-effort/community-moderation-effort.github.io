@@ -2,6 +2,15 @@
 sidebar_position: 1
 ---
 
+:::warning
+
+This website is currently unofficial, and any guidance should be met
+with caution and scepticism.
+
+Feedback is welcome in the CME offtopic channel.
+
+:::
+
 # Persistent attackers
 
 The persistent attacker is a category of threat actor
