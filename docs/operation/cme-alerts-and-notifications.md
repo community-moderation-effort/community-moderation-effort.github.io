@@ -2,6 +2,15 @@
 sidebar_label: CME Alerts and notifications
 ---
 
+:::warning
+
+This website is currently unofficial, and any guidance should be met
+with caution and scepticism.
+
+Feedback is welcome in the CME offtopic channel.
+
+:::
+
 # CME Alerts and notifications
 
 CME has an alerts room
