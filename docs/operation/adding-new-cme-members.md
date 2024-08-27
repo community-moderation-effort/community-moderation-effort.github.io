@@ -1,5 +1,3 @@
-# Inviting people to join CME
-
 :::warning
 
 This website is currently unofficial, and any guidance should be met
@@ -8,6 +6,8 @@ with caution and scepticism.
 Feedback is welcome in the CME offtopic channel.
 
 :::
+
+# Inviting people to join CME
 
 :::info
 

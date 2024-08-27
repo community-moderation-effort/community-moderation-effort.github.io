@@ -1,5 +1,3 @@
-# CME main cheat-sheet
-
 :::warning
 
 This website is currently unofficial, and any guidance should be met
@@ -8,6 +6,8 @@ with caution and scepticism.
 Feedback is welcome in the CME offtopic channel.
 
 :::
+
+# CME main cheat-sheet
 
 This is a simple cheat-sheet if you have doubts about whether a ban
 should be included within the main policy list
